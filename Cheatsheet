@@ -32,3 +32,7 @@ boys
 "guys",
 "lads",
 "boys"]
+
+Flat
+(((?<!\n)^(\w+)$)|(^(\w+)(?!\n))$|(\w+))\n?
+["content","male","dude","man","guy","lad","boy","boyfriend","mate","bro","men","males","guys","lads","boys"]
